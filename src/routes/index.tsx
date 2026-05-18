@@ -137,28 +137,34 @@ function Index() {
           <div>
             <p className="section-subtitle">The Craftsman</p>
             <h2 className="section-title">
-              Made by Luis,<br />
-              perfected through<br />
-              <span className="section-title-accent">generations</span>
+              He doesn't just<br />
+              make piri piri sauce.<br />
+              He <span className="section-title-accent">obsesses</span> over it.
             </h2>
             <p className="story-text">
-              Every bottle of Pequeno Grande carries more than just flavour — it
-              carries tradition. Luis learned the art of piri-piri from his
-              grandmother in a small village in Portugal.
+              Twenty years ago, Luis stood at a restaurant grill as a trainee chef,
+              mesmerized by fire and flavor. That spark never left. What followed
+              was a borderline-obsessive journey — refining recipes across kitchens
+              worldwide, chasing the perfect heat-to-flavor ratio, drawing from his
+              Portuguese roots where piri piri isn't just a condiment, it's a
+              culinary religion.
             </p>
             <p className="story-text">
-              What started as a family recipe has evolved into a craft. Each
-              batch is handmade in small quantities, ensuring every bottle meets
-              the standard of excellence Luis demands.
+              Today, Luis runs Pequeno Grande Molhos the way some people collect
+              wine: with fanatical attention to pairing. He'll tell you honestly —
+              he doesn't have one favorite sauce. Because the magic isn't in picking
+              a winner, it's in knowing which bottle transforms grilled prawns,
+              which one elevates roast chicken, which one makes eggs unforgettable.
             </p>
             <p className="story-text story-highlight">
-              No machines. No shortcuts. Just pure, authentic piri-piri the way
-              it was meant to be.
+              Every batch carries decades of trial, error, and taste-testing.
+              Every bottle holds his refusal to settle for "good enough."
             </p>
             <div className="story-quote">
               <p className="story-quote-text">
                 "The secret isn't in the recipe — it's in the respect for the
-                ingredients and the patience to let them speak."
+                ingredients and the patience to let them speak.
+                And life is a tasty flaming adventure."
               </p>
               <p className="story-quote-author">— Luis, Founder</p>
             </div>
