@@ -11,7 +11,7 @@ export default {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
-    publicPath: './',
+    publicPath: '/pequenogrande/'
   },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
