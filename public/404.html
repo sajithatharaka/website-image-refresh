@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pequeño Grande</title>
+    <script>
+      // GitHub Pages SPA routing: save the full path to sessionStorage,
+      // then redirect to the app root so index.html can restore it.
+      sessionStorage.setItem('spa-redirect', window.location.pathname + window.location.search + window.location.hash);
+      window.location.replace('/pequenogrande/');
+    </script>
+  </head>
+  <body></body>
+</html>
