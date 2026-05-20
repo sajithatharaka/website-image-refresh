@@ -23,10 +23,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: npm install
-
-    - name: Install webpack-cli
-      run: npm install -D webpack-cli
+      run: |
+        npm install
+        npm install -D webpack-cli ts-loader typescript @types/react @types/react-dom
 
     - name: Build
       run: npx webpack
