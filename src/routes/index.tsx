@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import alhoAssado from "@/assets/alho-assado.png";
 import blend from "@/assets/blend.png";
-import carolinaReaper from "@/assets/carolina-reaper.jpg";
+import carolinaReaper from "@/assets/carolina-reaper.png";
 import habanero from "@/assets/habanero.png";
 import jalapeno from "@/assets/jalapeno.png";
 import sacana from "@/assets/sacana.png";
