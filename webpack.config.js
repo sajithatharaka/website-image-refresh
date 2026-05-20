@@ -11,6 +11,7 @@ export default {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
+    publicPath: './',
   },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
@@ -25,9 +26,7 @@ export default {
         exclude: /node_modules/,
         use: {
           loader: 'ts-loader',
-          options: {
-            transpileOnly: true,
-          },
+          options: { transpileOnly: true },
         },
       },
       {
